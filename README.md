@@ -1,43 +1,43 @@
-# Darshil Prajapati – Portfolio Website
+# 🚀 Darshil K. Prajapati – Portfolio Website
 
-This is my personal portfolio website built using **HTML**, **CSS**, and **JavaScript**.  
-It showcases my skills, projects, and experience as a Full-Stack Developer.
+Welcome to my personal **portfolio website**, built using modern web technologies.  
+This site showcases my skills, projects, experience, and journey as a **Full-Stack Developer**.
 
-## 🌐 Live Website
-🔗 **https://darshilking208.github.io/darshil-portfolio**
+🌐 **Live Website:**  
+👉 https://darshilking208.github.io/darshil-portfolio/
 
-## 📌 Features
-- Modern UI/UX  
-- Dark/Light mode  
-- Smooth animations  
-- Responsive design  
-- Projects section  
-- Contact form  
+---
+
+## ✨ Features
+
+- ⚡ Modern, clean UI/UX  
+- 🌗 Dark & Light mode toggle  
+- 📱 Fully responsive (mobile, tablet, desktop)  
+- 🎨 Smooth animations & transitions  
+- 🧩 Projects section with descriptions  
+- 📬 Contact form  
+- 🖼️ Image & content sections  
+
+---
 
 ## 🛠️ Technologies Used
-- HTML5  
-- CSS3  
-- JavaScript  
-- GitHub Pages  
 
-## 📷 Preview
-(You can add a screenshot here later)
-
----
-
-Feel free to modify anything!
+- **HTML5**  
+- **CSS3**  
+- **JavaScript (Vanilla JS)**  
+- **Git & GitHub**  
+- **GitHub Pages** for deployment  
 
 ---
 
-# ✅ **Option 2 — I can create the README file for you**
 
-If you want me to generate the file and upload it, just tell me:
+## 📸 Website Preview
 
-👉 **“Make README file for me”**
+### 🏠 Home Section
+<img width="1920" height="1080" alt="Screenshot 2025-11-24 210834" src="https://github.com/user-attachments/assets/72f44e82-f2dd-4cfa-aa2a-eb9a4bcd5cb5" />
 
-I will generate the file and guide exactly how to upload.
 
----
+### 🙋 About Me Section
+<img width="1920" height="1080" alt="Screenshot 2025-11-24 210843" src="https://github.com/user-attachments/assets/80dba61a-7fd4-4f58-a27b-1552ef4768dd" />
 
-# If you want, I can also create an advanced professional README.
-  
+
