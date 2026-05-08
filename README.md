@@ -37,7 +37,6 @@ This site showcases my skills, projects, experience, and journey as a **Full-Sta
 <img width="1920" height="1080" alt="Screenshot 2025-11-24 210834" src="https://github.com/user-attachments/assets/72f44e82-f2dd-4cfa-aa2a-eb9a4bcd5cb5" />
 
 
-### 🙋 About Me Section
-<img width="1920" height="1080" alt="Screenshot 2025-11-24 210843" src="https://github.com/user-attachments/assets/80dba61a-7fd4-4f58-a27b-1552ef4768dd" />
+
 
 
